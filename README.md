@@ -1,7 +1,7 @@
 # Ed-Tech LMS Analytics Dashboard
 
 ## Project Overview
-This dashboard was created to replicate my experience working at an ed-tech company, where monitoring student engagement and product performance was crucial for business success. The project simulates a Learning Management System (LMS) analytics platform that tracks various key performance indicators (KPIs) across different product features.
+This dashboard was created to replicate my experience working at an ed-tech company as an individually contributing product manager, where monitoring student engagement and product performance was crucial for business success. The project simulates a Learning Management System (LMS) analytics platform that tracks various key performance indicators (KPIs) across different product features.
 
 ## Business Context
 In the ed-tech space, understanding how students interact with various learning features is vital for:
