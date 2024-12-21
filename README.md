@@ -1,4 +1,5 @@
 # Ed-Tech LMS Analytics Dashboard
+Link to dashboard- https://edtech-kpi-dashboard.streamlit.app/
 
 ## Project Overview
 This dashboard was created to replicate my experience working at an ed-tech company as an individually contributing product manager, where monitoring student engagement and product performance was crucial for business success. The project simulates a Learning Management System (LMS) analytics platform that tracks various key performance indicators (KPIs) across different product features.
