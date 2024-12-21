@@ -130,5 +130,3 @@ As a Product Manager, integrating AI tools in the development workflow was a del
    - AI-powered code verification
    - Consistent coding standards
    - Reduced technical debt
-
-## Installation & Usage 
